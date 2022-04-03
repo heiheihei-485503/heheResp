@@ -1,3 +1,5 @@
 public void test2(){
     System.out.println("恢复生产库")
+	System.out.println("恢复生产库")
+	System.out.println("恢复生产库")
 }
