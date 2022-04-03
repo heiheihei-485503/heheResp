@@ -1,4 +1,5 @@
 public void test2(){
     System.out.println("呵呵1233")
     System.out.println("远程111")
+    System.out.println("天天")
 }
